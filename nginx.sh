@@ -1,3 +1,5 @@
+#!/bin/bash
+#LINK PROJETO NGINX USADO HTTPS: https://mw1.maxitv.com.br/ 
 echo "install os utlilitarios do yum "
 #
 sudo yum install yum-utils -y
